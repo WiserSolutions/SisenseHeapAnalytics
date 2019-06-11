@@ -1,0 +1,8 @@
+{
+  "name": "SisenseHeapAnalytics",
+  "source": [
+    "config.js",
+    "plugin.js"
+  ],
+  "version": "0.1.0"
+}
