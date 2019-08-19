@@ -4,5 +4,5 @@ heap.load(mod.APP_ID);
 
 // Wait a bit to let Sisense initialize and populate the user object
 window.setTimeout(function() {
-  heap.identify(prism.user.email.toLowerCase(), 'email');
+  heap.identify(prism.user.email.toLowerCase());
 }, 2000);
