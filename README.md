@@ -18,8 +18,7 @@ interact with Sisense.
 
 ## Support
 
-For issues, questions, or feature requests, please open an issue on this GitHub
-repository or email <opensource@wiser.com>.
+This is no longer an actively supported project. If you wish to take ownership, please contact us at <opensource@wiser.com>. 
 
 ## License
 
